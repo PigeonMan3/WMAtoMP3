@@ -33,6 +33,6 @@ class Program
             }
 
             Console.WriteLine($"Converted: {wmaFilePath} -> {outputFilePath}");
-        }
+        } 
     }
 }
